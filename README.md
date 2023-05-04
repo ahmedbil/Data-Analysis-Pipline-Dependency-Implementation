@@ -1,5 +1,5 @@
 # Data Analysis & Pipline Dependency
-To Run my Samples
+To run the Samples
 - Please download the DataRole1.zip file
 - The cleanup_label python code inside of the zip folder will require python.
 - The output for cleanup and label is also available in export_dataframe.csv file.
